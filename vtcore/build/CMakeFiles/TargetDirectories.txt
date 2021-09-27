@@ -1,0 +1,3 @@
+C:/git/vtcore/build/CMakeFiles/nlp.dir
+C:/git/vtcore/build/CMakeFiles/ALL_BUILD.dir
+C:/git/vtcore/build/CMakeFiles/ZERO_CHECK.dir
