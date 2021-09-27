@@ -1,0 +1,73 @@
+NOHASH rule: _LINE [unsealed] [] <- _xWILD [0,0 fails=(
+)] [] \n [1,1] [] @@
+NOHASH rule: _LINE [unsealed] [] <- _xWILD [1,0 fails=( 
+)] [] @@
+NOHASH rule: _xNIL [] [] <- _xBLANK [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xNUM [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xPUNCT [1,1 singlet] [] @@
+NOHASH rule: _whtINDENT [base] [] <- _xSTART [1,1] [] _xWHITE [1,0 singlet] [] @@
+NOHASH rule: _whtSEP [base] [] <- _xWHITE [5,0 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xWHITE [1,3 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 singlet pre] [] @@
+NOHASH rule: _xNIL [] [] <- _xCAP [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _whtINDENT [0,0 singlet] [] * [1,1 singlet] [] _xWILD [1,0 singlet matches=(_xWHITE _whtSEP)] [] _xWILD [1,1 singlet lookahead fails=(*)] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _whtINDENT [0,0 singlet] [] o [1,1 singlet pre] [] _xWILD [1,0 singlet matches=(_xWHITE _whtSEP)] [] @@
+NOHASH rule: _bullet [base] [] <- _xSTART [1,1] [] _whtINDENT [0,0 singlet] [] + [1,1 singlet] [] _xWILD [1,0 singlet matches=(_xWHITE _whtSEP)] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _whtINDENT [0,0 singlet] [] - [1,1 singlet] [] _xWILD [1,0 singlet matches=(_xWHITE _whtSEP)] [] @@
+NOHASH rule: _xNIL [] [] <- _xNUM [1,1 singlet] [] . [1,1] [] _xNUM [1,1 singlet] [] . [1,1] [] _xNUM [1,1 singlet] [] @@
+NOHASH rule: _numDecimal [] [] <- _xNUM [1,1 singlet] [] . [1,1 singlet] [] _xNUM [1,1 singlet] [] @@
+NOHASH rule: _phoneNumber [] [] <-2- _xNUM [1,1 attrs=(_areaCode) singlet pre] [] _xPUNCT [1,1 singlet trigger] [] _xNUM [1,1 attrs=(_prefix) singlet pre] [] _xPUNCT [1,1 singlet] [] _xNUM [1,1 attrs=(_suffix) singlet pre] [] @@
+NOHASH rule: _phoneNumber [] [] <- _xNUM [1,1 attrs=(_areaCode) singlet pre] [] _xWHITE [0,0 singlet] [] _xNUM [1,1 attrs=(_prefix) singlet pre] [] _xWHITE [0,0 singlet] [] _xNUM [1,1 attrs=(_suffix) singlet pre] [] @@
+NOHASH rule: _Caps [unsealed] [] <- _xCAP [1,1 singlet] [] _xWILD [1,1 singlet matches=(- /)] [] _xCAP [1,1 singlet] [] @@
+NOHASH rule: _Caps [unsealed] [] <- _xCAP [1,1 singlet] [] ' [1,1 singlet] [] _xALPHA [0,1 singlet] [] @@
+NOHASH rule: _Caps [unsealed] [] <- _xCAP [1,1 singlet] [] _xWILD [1,1 singlet matches=(- /)] [] _xCAP [1,1 singlet] [] @@
+NOHASH rule: _Caps [unsealed] [] <- _xCAP [1,1 singlet] [] ' [1,1 singlet] [] _xALPHA [0,1 singlet] [] @@
+NOHASH rule: _Caps [base unsealed] [] <- _xCAP [1,1 singlet pre] [] . [1,1 singlet] [] @@
+NOHASH rule: _Caps [base unsealed] [] <- _xCAP [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xCAP [1,1 singlet] [] _xWHITE [0,0 singlet] [] _Caps [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xCAP [1,1 pre] [] @@
+NOHASH rule: _xNIL [] [] <- _xCAP [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xCAP [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xCAP [1,1 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_prefixName) singlet pre] [] . [1,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xWILD [1,1 attrs=(_lastName) singlet matches=(_surName _xALPHA)] [] , [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [0,1 attrs=(_suffixName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_prefixName) singlet pre] [] . [1,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xWILD [1,1 attrs=(_lastName) singlet matches=(_surName _xALPHA)] [] , [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [0,1 attrs=(_suffixName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xWILD [1,1 attrs=(_lastName) singlet matches=(_surName _xALPHA)] [] , [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [0,1 attrs=(_suffixName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xWILD [1,1 attrs=(_lastName) singlet matches=(_surName _xALPHA)] [] , [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [0,1 attrs=(_suffixName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xWILD [0,25 singlet matches=(_BLANKLINE _horizRule)] [] _xANY [1,1] [] @@
+NOHASH rule: _contactBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_contactHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _educationBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_educationHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _experienceBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_experienceHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _objectiveBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_objectiveHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _presentationsBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_presentationsHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _publicationsBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_publicationsHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _skillsBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_skillsHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _referencesBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_referencesHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _otherBoundary [] [] <-4- _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] _xWILD [1,1 tree trigger matches=(_otherHeader)] [] _BLANKLINE [0,0 singlet] [] _horizRule [0,1 singlet] [] _BLANKLINE [0,0 singlet] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xWILD [0,0 singlet matches=(_BLANKLINE _horizRule)] [] _xANY [1,1] [] _xWILD [0,0 singlet matches=(_BLANKLINE _horizRule)] [] _xANY [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xWILD [0,0 singlet matches=(_BLANKLINE _horizRule)] [] _xANY [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xWILD [0,0 singlet matches=(_BLANKLINE _horizRule)] [] _xANY [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xWILD [0,0 singlet matches=(_BLANKLINE _horizRule)] [] _xANY [1,1] [] _xWILD [0,0 singlet matches=(_BLANKLINE _horizRule)] [] _xANY [1,1] [] @@
+NOHASH rule: _REZZONE [unsealed] [] <- _xWILD [1,0 fails=(_contactBoundary _objectiveBoundary _educationBoundary _experienceBoundary _skillsBoundary _presentationsBoundary _publicationsBoundary _referencesBoundary _otherBoundary)] [] @@
+NOHASH rule: _contactZone [unsealed] [] <- _xSTART [1,1] [] _REZZONE [1,1] [] @@
+NOHASH rule: _experienceInstance [] [] <- _xWILD [1,1 singlet matches=(_xSTART _experienceBoundary)] [] _xWILD [0,0 singlet matches=(_LINE _BLANKLINE) excepts=(_expStart)] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 singlet pre] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 singlet pre excepts=(and of)] [] _xWHITE [0,0 singlet] [] _Caps [1,1 rename=_CHAFF singlet] [] @@
+NOHASH rule: _educationInstance [] [] <- _xWILD [1,1 singlet matches=(_xSTART _educationBoundary)] [] _xWILD [0,0 singlet matches=(_LINE _BLANKLINE) excepts=(_eduStart)] [] @@
+NOHASH rule: _xNIL [] [] <- _xANY [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet] [] . [1,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_prefixName) singlet pre] [] . [1,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet] [] , [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [0,1 attrs=(_suffixName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_prefixName) singlet pre] [] . [1,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet] [] , [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [0,1 attrs=(_suffixName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet] [] , [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [0,1 attrs=(_suffixName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xSTART [1,1] [] _xALPHA [1,1 attrs=(_firstName) singlet] [] . [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet] [] , [0,1 singlet] [] _xWHITE [0,0 singlet] [] _xALPHA [0,1 attrs=(_suffixName) singlet] [] _xEND [1,1] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 attrs=(_firstName) singlet pre] [] . [0,1 singlet] [] _xBLANK [0,1 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet pre] [] . [0,1 singlet] [] _xBLANK [0,1 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet pre] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 attrs=(_firstName) singlet pre] [] _xBLANK [0,1 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet pre] [] . [0,1 singlet] [] _xBLANK [0,1 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet pre] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 attrs=(_firstName) singlet pre] [] _xBLANK [0,1 singlet] [] _xWILD [1,1 singlet matches=(de du la da)] [] _xBLANK [0,1 singlet] [] _xALPHA [1,1 singlet pre] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 attrs=(_firstName) singlet pre] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_middleName) singlet pre] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet pre] [] @@
+NOHASH rule: _xNIL [] [] <- _xALPHA [1,1 attrs=(_firstName) singlet pre] [] _xWHITE [0,0 singlet] [] _xALPHA [1,1 attrs=(_lastName) singlet] [] @@
+NOHASH rule: _addressBlock [] [] <- _addressPart [1,1 tree] [] _xWILD [0,0 tree matches=(_addressPart _BLANKLINE _horizRule)] [] @@
+NOHASH rule: _addressBlock [] [] <- _addressPart [1,10 tree] [] @@

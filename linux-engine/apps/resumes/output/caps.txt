@@ -1,0 +1,30 @@
+CAPITALIZED PHRASE CONFIDENCES
+        (RESUME-WIDE)
+=======================================================
+ HUM CITY FLD SCH JOB CO.  TEXT
+ ------------------------------------------------------
+INFO FOR CAPITALIZED PHRASES
+ (Experience zone only)
+Formula: Job conf=TOTLEN+CAPLEN+JOBNUM*3+JOBEND*10
+=======================================================
+ TOT CAP UNK JOB JOB CO  CO  JOB CO   CAP
+ LEN LEN LEN NUM END NUM END CNF CNF  PHRASE
+ ------------------------------------------------------
+CAPITALIZED PHRASE CONFIDENCES
+        (RESUME-WIDE)
+=======================================================
+ HUM CITY FLD SCH JOB CO.  TEXT
+ ------------------------------------------------------
+   0   0    0   0   0   0  David
+   0  50    0   0   0  55  Hilster
+  48  30    0   0   0  50  LexisNexis Jan
+   0   0    0   0   0   0  Present
+INFO FOR CAPITALIZED PHRASES
+ (Experience zone only)
+Formula: Job conf=TOTLEN+CAPLEN+JOBNUM*3+JOBEND*10
+=======================================================
+ TOT CAP UNK JOB JOB CO  CO  JOB CO   CAP
+ LEN LEN LEN NUM END NUM END CNF CNF  PHRASE
+ ------------------------------------------------------
+   2   2   1   0   0   0   0   0  50  LexisNexis Jan
+   1   1   0   0   0   0   0   0   0  Present

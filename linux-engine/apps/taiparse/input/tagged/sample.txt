@@ -1,0 +1,8 @@
+[ You/PP ]
+can/MD get/VB
+[ files/NNS ]
+like/PP
+[ this/PP ]
+from/PP
+[ WordNet/NP ]
+./. 

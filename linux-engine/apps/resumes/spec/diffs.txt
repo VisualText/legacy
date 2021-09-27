@@ -1,0 +1,61 @@
+summary of differences between AM & PS resume analyzers - 01/28/2000
+
+in terms of the analyzer.seq, the only things different are your height.pat (which has nothing in it?)
+and weak0.  And weak_boundaries.pat is slightly different, as we talked about this morning.
+gee, not so far out of synch afterall... also, that nonsense with degree being a . happened because
+of an overlap in text examples in degree and degreephrase.  
+
+in terms of files, here's the summary:
+
+your addressline and addresspart are different, but i can't
+just swipe yours because they're from samples.
+
+mine has a thick cityphrase due to the large list file.
+
+you've added some stuff to conf_geo, so i've adopted that
+
+my countryphrase is now minus places which are both countries
+and cities, and those terms are in ambiguousTerms.pat
+
+i added some stuff to degree1.pat, and edu1 is a little diff,
+i need to inbestigate this
+
+i have some additional headerPhrases
+
+you have added jobtitle to experiencepart, i guess with samples
+
+i have added a large field name file
+
+humanname has some slight diffs, which i'll adopt
+
+i tweaked g_addr to handle some 'stralian constructs
+
+minor change to g_caps0 is adopted
+
+got your fix in grade0
+
+as far as humanname.pat, it appears from the rules file that the
+number of samples is too small to afford any generalization.  ideas?
+
+i have added some real job titles to the sample hierarchy so jobtitle is diff
+
+looks like you've got another extension pattern in phoneextension,
+which i'll need to find
+
+your phonenumber pattern is more complex, so i'll need those samples too
+(guess i'll convert these cases to samples files & reload)
+
+your posprep has a lot more samples
+
+i added NSW to the list of states
+
+you sampled an extra term in resumeword
+
+you made a small extra tweak to z_conf
+
+i added tweaks to z_context
+
+you tweaked z_format
+
+
+

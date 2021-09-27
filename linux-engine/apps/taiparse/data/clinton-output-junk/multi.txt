@@ -1,0 +1,136 @@
+_noun	North Korea
+_noun	U.S.
+_noun	Reagan
+_noun	Bush
+_noun	Clinton
+_noun	DPRK
+_noun	South Korea
+_noun	Japan
+_np	Japan
+_noun	U.S.
+_noun	President
+_noun	Clinton
+_noun	President Clinton
+_noun	United States
+_noun	United States
+_noun	Europe
+_noun	Western Europe
+_np	Western Europe
+_advl	in Western Europe
+_noun	Japan
+_noun	Secretary
+_noun	Hazel
+_noun	U.S.
+_noun	Energy Secretary Hazel O'Leary
+_noun	U.S.
+_noun	DPRK
+_adj	South Korean
+_noun	U.S.
+_noun	U.S.
+_noun	Japan
+_noun	U.S.
+_adj	Japanese
+_noun	Japan
+_noun	U.S.
+_noun	U.S.
+_adj	Japanese
+_adj	Korean
+_noun	James
+_noun	U.S.
+_noun	Secretary of State
+_adj	Korean
+_noun	Seoul
+_noun	Pyongyang
+_noun	North South
+_noun	South Korea
+_noun	France
+_noun	Japan
+_np	Japan
+_noun	U.S.
+_noun	Japan
+_noun	South Korea
+_noun	NPT
+_noun	U.S.
+_noun	State
+_noun	U.S.
+_noun	State Department
+_noun	South Korea
+_np	South Korea
+_advl	to South Korea
+_noun	Tokyo
+_noun	Seoul
+_noun	U.S.
+_noun	NPT
+_noun	IAEA
+_adj	Asian
+_noun	Northeast Asian
+_noun	NPT
+_noun	IAEA
+_noun	North Korea
+_noun	U.S.
+_noun	Reagan
+_noun	Bush
+_noun	Clinton
+_noun	DPRK
+_noun	South Korea
+_noun	Japan
+_np	Japan
+_noun	U.S.
+_noun	President
+_noun	Clinton
+_noun	President Clinton
+_noun	United States
+_noun	United States
+_noun	Europe
+_noun	Western Europe
+_np	Western Europe
+_advl	in Western Europe
+_noun	Japan
+_noun	Secretary
+_noun	Hazel
+_noun	U.S.
+_noun	Energy Secretary Hazel O'Leary
+_noun	U.S.
+_noun	DPRK
+_adj	South Korean
+_noun	U.S.
+_noun	U.S.
+_noun	Japan
+_noun	U.S.
+_adj	Japanese
+_noun	Japan
+_noun	U.S.
+_noun	U.S.
+_adj	Japanese
+_adj	Korean
+_noun	James
+_noun	U.S.
+_noun	Secretary of State
+_adj	Korean
+_noun	Seoul
+_noun	Pyongyang
+_noun	North South
+_noun	South Korea
+_noun	France
+_noun	Japan
+_np	Japan
+_noun	U.S.
+_noun	Japan
+_noun	South Korea
+_noun	NPT
+_noun	U.S.
+_noun	State
+_noun	U.S.
+_noun	State Department
+_noun	South Korea
+_np	South Korea
+_advl	to South Korea
+_noun	Tokyo
+_noun	Seoul
+_noun	U.S.
+_noun	NPT
+_noun	IAEA
+_adj	Asian
+_noun	Northeast Asian
+_noun	NPT
+_noun	IAEA

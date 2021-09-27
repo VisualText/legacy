@@ -1,0 +1,4 @@
+Printing from code region.
+Word con=abc
+Printing from code region.
+Word con=abc

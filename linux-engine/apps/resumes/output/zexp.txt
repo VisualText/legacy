@@ -1,0 +1,21 @@
+
+Characterizing General Cap Phrases
+----------------------------------
+
+Characterizing General Cap Phrases
+----------------------------------
+$text=Present
+len = 1
+caplen = 1
+hi conf = 0
+hi class = NULL
+ambigs = 0
+city conf = 0
+text = Present
+diff = 25
+print1 = 1
+printy = 25
+prox penalty = 25
+job conf tot = 0
+company conf tot = 0
+-------

@@ -1,0 +1,150 @@
+[Unhandled period]
+[Unhandled period]
+[More than one POS in caps list.]
+[More than one POS in caps list.]
+[More than one POS in caps list.]
+[More than one POS in caps list.]
+Voice mismatch: states
+Voice mismatch: gave
+[mhbvfix error(2):] was not due to
+[fixvgattrs error: was not due to]
+Voice mismatch: empowered
+Voice mismatch: prohibiting
+[mhbvfix error(2):] was not sufficient
+[fixvgattrs error: was not sufficient]
+[mhbvfix error(2):] would be a credible agreement
+[fixvgattrs error: would be a credible agreement]
+[mhbvfix error(2):] It is significant
+[fixvgattrs error: It is significant]
+Voice mismatch: included
+Voice mismatch: free
+Voice mismatch: may not prove
+[mhbvfix error(2):] they are NPT
+[fixvgattrs error: they are NPT]
+Voice mismatch: can only serve
+Voice mismatch: has expressed
+no v: The United States does not encourage the civil use of plutonium and, accordingly, does not itself engage in plutonium reprocessing for either
+Voice mismatch: was reiterated
+Voice mismatch: is governed
+Voice mismatch: has remained
+Voice mismatch: has remained
+Voice mismatch: must renounce
+Voice mismatch: must renounce
+Voice mismatch: can acquire
+Voice mismatch: states
+Voice mismatch: does not encourage
+Voice mismatch: does not encourage
+Voice mismatch: engage
+Voice mismatch: will maintain
+Voice mismatch: will maintain
+Voice mismatch: has launched
+Voice mismatch: has launched
+Voice mismatch: to explore
+Voice mismatch: reprocessing
+Voice mismatch: has expressed
+Voice mismatch: has insisted
+Voice mismatch: to acquire
+Voice mismatch: gave
+Voice mismatch: empowered
+Voice mismatch: to decide
+Voice mismatch: race
+Voice mismatch: would be
+Voice mismatch: leaving
+vcongj: -ed  free to seek reprocessing services  108,0
+Voice mismatch: free
+Voice mismatch: seek
+Voice mismatch: has done
+Voice mismatch: are
+Voice mismatch: are
+Voice mismatch: are
+Voice mismatch: are
+Voice mismatch: have
+Voice mismatch: have
+Voice mismatch: must explain
+Voice mismatch: trusts
+Voice mismatch: trusts
+Voice mismatch: suggests
+Voice mismatch: are
+Voice mismatch: are
+Voice mismatch: Absent
+vcongj: -ed  this approach can only serve to codify the problem with an NPT/  108,0
+Voice mismatch: can only serve
+Voice mismatch: codify
+Voice mismatch: can only serve
+Voice mismatch: codify
+Voice mismatch: supplied
+[Unhandled period]
+[Unhandled period]
+[More than one POS in caps list.]
+[More than one POS in caps list.]
+[More than one POS in caps list.]
+[More than one POS in caps list.]
+Voice mismatch: states
+Voice mismatch: gave
+[mhbvfix error(2):] was not due to
+[fixvgattrs error: was not due to]
+Voice mismatch: empowered
+Voice mismatch: prohibiting
+[mhbvfix error(2):] was not sufficient
+[fixvgattrs error: was not sufficient]
+[mhbvfix error(2):] would be a credible agreement
+[fixvgattrs error: would be a credible agreement]
+[mhbvfix error(2):] It is significant
+[fixvgattrs error: It is significant]
+Voice mismatch: included
+Voice mismatch: free
+Voice mismatch: may not prove
+[mhbvfix error(2):] they are NPT
+[fixvgattrs error: they are NPT]
+Voice mismatch: can only serve
+Voice mismatch: has expressed
+no v: The United States does not encourage the civil use of plutonium and, accordingly, does not itself engage in plutonium reprocessing for either
+Voice mismatch: was reiterated
+Voice mismatch: is governed
+Voice mismatch: has remained
+Voice mismatch: has remained
+Voice mismatch: must renounce
+Voice mismatch: must renounce
+Voice mismatch: can acquire
+Voice mismatch: states
+Voice mismatch: does not encourage
+Voice mismatch: does not encourage
+Voice mismatch: engage
+Voice mismatch: will maintain
+Voice mismatch: will maintain
+Voice mismatch: has launched
+Voice mismatch: has launched
+Voice mismatch: to explore
+Voice mismatch: reprocessing
+Voice mismatch: has expressed
+Voice mismatch: has insisted
+Voice mismatch: to acquire
+Voice mismatch: gave
+Voice mismatch: empowered
+Voice mismatch: to decide
+Voice mismatch: race
+Voice mismatch: would be
+Voice mismatch: leaving
+vcongj: -ed  free to seek reprocessing services  108,0
+Voice mismatch: free
+Voice mismatch: seek
+Voice mismatch: has done
+Voice mismatch: are
+Voice mismatch: are
+Voice mismatch: are
+Voice mismatch: are
+Voice mismatch: have
+Voice mismatch: have
+Voice mismatch: must explain
+Voice mismatch: trusts
+Voice mismatch: trusts
+Voice mismatch: suggests
+Voice mismatch: are
+Voice mismatch: are
+Voice mismatch: Absent
+vcongj: -ed  this approach can only serve to codify the problem with an NPT/  108,0
+Voice mismatch: can only serve
+Voice mismatch: codify
+Voice mismatch: can only serve
+Voice mismatch: codify
+Voice mismatch: supplied

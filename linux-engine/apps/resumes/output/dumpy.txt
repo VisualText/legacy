@@ -1,0 +1,119 @@
+Globals:
+output.txt = <ostream>
+threshold = 70
+dump.txt = <ostream>
+dumpy.txt = <ostream>
+
+DUMPING LINES
+-------------
+
+$text=A dummy input file.
+
+nalpha = 15
+walpha = 4
+nwhite = 3
+npunct = 1
+wallcaps = 1
+wcap = 1
+nblobs = 4
+Globals:
+output.txt = <ostream>
+threshold = 70
+dump.txt = <ostream>
+dumpy.txt = <ostream>
+Root context:
+Suggested node variables:
+===============
+Globals:
+output.txt = <ostream>
+threshold = 70
+dump.txt = <ostream>
+dumpy.txt = <ostream>
+
+DUMPING LINES
+-------------
+
+$text=David de Hilster
+
+nalpha = 14
+walpha = 3
+nwhite = 2
+wcap = 2
+nblobs = 3
+Globals:
+output.txt = <ostream>
+threshold = 70
+dump.txt = <ostream>
+dumpy.txt = <ostream>
+Root context:
+Suggested node variables:
+===============
+$text=22936 Ironwedge Dr.
+
+nnum = 5
+wnum = 1
+nwhite = 2
+nalpha = 11
+walpha = 2
+npunct = 1
+nblobs = 3
+wcap = 2
+Globals:
+output.txt = <ostream>
+threshold = 70
+dump.txt = <ostream>
+dumpy.txt = <ostream>
+Root context:
+Suggested node variables:
+===============
+$text=Boca Raton, FL 33433
+
+nalpha = 11
+walpha = 3
+nwhite = 3
+npunct = 1
+nnum = 5
+wnum = 1
+wcap = 3
+nblobs = 4
+wallcaps = 1
+Globals:
+output.txt = <ostream>
+threshold = 70
+dump.txt = <ostream>
+dumpy.txt = <ostream>
+Root context:
+Suggested node variables:
+===============
+$text=Experience
+
+nalpha = 10
+walpha = 1
+wcap = 1
+nblobs = 1
+Globals:
+output.txt = <ostream>
+threshold = 70
+dump.txt = <ostream>
+dumpy.txt = <ostream>
+Root context:
+Suggested node variables:
+===============
+$text=LexisNexis Jan-2015-Present
+
+nalpha = 20
+walpha = 3
+nwhite = 1
+npunct = 2
+nnum = 4
+wnum = 1
+wcap = 3
+nblobs = 2
+Globals:
+output.txt = <ostream>
+threshold = 70
+dump.txt = <ostream>
+dumpy.txt = <ostream>
+Root context:
+Suggested node variables:
+===============

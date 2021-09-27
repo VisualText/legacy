@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<BizTalk xmlns="urn:schemas-biztalk-org/biztalk-0.81.xml">
+<Body>
+<CandidateProfile xmlns="urn:schemas-biztalk-org:HR-XML-org/CandidateProfile">
+<JobCandidateContact>
+</JobCandidateContact>
+<History>
+</History>
+</CandidateProfile>
+</Body>
+</BizTalk>
+<?xml version="1.0" ?>
+<BizTalk xmlns="urn:schemas-biztalk-org/biztalk-0.81.xml">
+<Body>
+<CandidateProfile xmlns="urn:schemas-biztalk-org:HR-XML-org/CandidateProfile">
+<JobCandidateContact>
+<Address>
+<AddressLine>
+ 22936  Ironwedge  Dr 
+</AddressLine>
+</Address>
+<Address>
+<City> Boca Raton </City>
+<State> FL </State>
+<PostalCode> 33433 </PostalCode>
+</Address>
+</JobCandidateContact>
+<History>
+</History>
+</CandidateProfile>
+</Body>
+</BizTalk>

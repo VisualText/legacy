@@ -1,0 +1,543 @@
+
+======================================
+
+[ Clinton/NP Administration/NP Plutonium/NP Policy/NP ]
+and/CC 
+[ North Korea/NP ]
+
+======================================
+
+[ U. S./NN policy/NN ]
+on/IN 
+[ the/DT use/NN ]
+of/IN 
+[ plutonium/NN ]
+has/VBZ remained/VBN essentially/RB 
+[ the/DT same/JJ ]
+under/IN 
+[ the/DT Reagan/NP ]
+,/, Bush/NP ,/, and/CC 
+[ Clinton/NP administrations/NNS ]
+:/: 
+
+[ the/DT DPRK/NP ]
+and/CC 
+[ South Korea/NP ]
+must/MD renounce/VB 
+[ all/DT plutonium/NN ]
+,/, but/CC 
+[ Japan/NP ]
+can/MD acquire/VB as/RB much/JJ as/IN 
+[ it/PP ]
+wants/UNKNOWN from/IN 
+[ U. S./NN ]
+-/- supplied/UNKNOWN 
+[ nuclear/JJ fuel/NN ]
+./. 
+
+[ This/DT discriminatory/JJ approach/NN ]
+was/VBD reiterated/VBN by/IN 
+[ President/NP Clinton/NP ]
+,/, whose/WP$ 
+[ nonproliferation/NN policy/NN ]
+states/VBZ ,/, "/" 
+[ The/DT United States/NNS ]
+does/VBZ not/RB encourage/VB 
+[ the/DT civil/JJ use/NN ]
+of/IN 
+[ plutonium/NN ]
+and/CC ,/, accordingly/RB ,/, does/VBZ not/RB 
+[ itself/PP ]
+engage/VB in/IN 
+[ plutonium/NN reprocessing/NN ]
+for/IN either/UNKNOWN 
+[ nuclear/JJ power/NN ]
+or/CC 
+[ nuclear/JJ explosive/NN purposes/NNS ]
+./. 
+
+[ The/DT United States/NNS ]
+,/, however/RB ,/, will/MD maintain/VB 
+[ its/PP$ existing/JJ commitments/NNS ]
+regarding/IN 
+[ the/DT use/NN ]
+of/IN 
+[ plutonium/NN ]
+in/IN 
+[ civil/JJ nuclear/JJ programs/NNS ]
+in/IN 
+[ Western/NP Europe/NP ]
+and/CC 
+[ Japan/NP ]
+"/" 1341/CD ./. (/( 
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ U. S./NN Energy/NP Secretary/NP Hazel/NP O/NP Leary/NP ]
+has/VBZ launched/VBN 
+[ an/DT initiative/NN ]
+to/TO explore/VB 
+[ alternatives/NNS ]
+to/TO reprocessing/VBG and/CC has/VBZ expressed/VBN 
+[ her/PP$ opposition/NN ]
+to/TO reprocessing/VBG and/CC 
+[ plutonium/NN fuel/NN cycles/NNS ]
+./. )/) 
+
+======================================
+
+[ The/DT U. S./NN ]
+has/VBZ insisted/VBN that/IN 
+[ the/DT DPRK/NP give/NN ]
+up/IN 
+[ its/PP$ reprocessing/NN plant/NN ]
+and/CC 
+[ all/DT plutonium/NN ambitions/NNS ]
+./. 
+
+[ South Korean/JJ efforts/NNS ]
+to/TO acquire/VB 
+[ reprocessing/NN plants/NNS ]
+,/, 
+[ plutonium/NN separation/NN technology/NN ]
+,/, and/CC 
+[ related/JJ technology/NN ]
+have/VBP also/RB been/VBN quashed/VBN by/IN 
+[ firm/JJ U. S./NN diplomacy/NN ]
+./. 
+
+[ U. S./NN plutonium/NN policy/NN ]
+toward/IN 
+[ Japan/NP ]
+is/VBZ governed/VBN by/IN 
+[ the/DT 1988/CD revision/NN ]
+of/IN 
+[ the/DT U. S./NN ]
+-/- 
+[ Japanese/NP nuclear/JJ cooperation/NN agreement/NN ]
+that/WDT gave/VBD 
+[ Japan/NP advance/NN approval/NN ]
+to/TO reprocess/VB as/IN 
+[ much/RB U. S.-origin/JJ spent/JJ fuel/NN ]
+as/IN 
+[ it/PP ]
+wants/UNKNOWN over/IN a/DT 
+[ 30/CD ]
+-/- 
+[ year/NN period/NN ]
+[/[ 
+[ 35/CD ]
+]/] ./. 
+
+[ The/DT previous/JJ agreement/NN ]
+,/, 
+[ which/WDT ]
+was/VBD not/RB due/RB to/TO expire/VBP until/IN 
+[ 2003/CD ]
+,/, empowered/VBD 
+[ the/DT U. S./NN ]
+to/TO decide/VB 
+[ each/DT Japanese/NP request/NN ]
+for/IN 
+[ reprocessing/NN ]
+and/CC 
+[ plutonium/NN use/NN ]
+on/IN 
+[ a/DT case-by/JJ ]
+-/- case/UNKNOWN basis/NN ./. 
+
+======================================
+
+In/IN 
+[ November 1991/NN ]
+,/, while/IN 
+[ the/DT North-South/NP Korean/NP bilateral/JJ denuclearization/NN agreement/NN ]
+was/VBD being/VBG negotiated/VBN ,/, then/RB -/- 
+[ U. S./NN Secretary/NP of/IN State/NP James/NP Baker/NP ]
+made/VBD 
+[ clear/NN ]
+that/IN prohibiting/VBG 
+[ fuel/NN cycle/NN facilities/NNS ]
+was/VBD not/RB sufficient/JJ ,/, and/CC "/" 
+[ the/DT only/RB firm/JJ assurance/NN ]
+against/IN 
+[ a/DT nuclear/JJ arms/NNS ]
+race/VBP in/IN 
+[ the/DT Korean/NP peninsula/NN ]
+would/MD be/VB 
+[ a/DT credible/JJ agreement/NN ]
+by/IN both/CC 
+[ Seoul/NP ]
+and/CC 
+[ Pyongyang/NP ]
+to/TO abstain/VB from/IN 
+[ the/DT production or acquisition/NN ]
+of/IN any/DT weapons-grade/JJ nuclear/JJ material/NN "/" [/[ 
+[ emphasis/NN ]
+supplied/VBD ]/] [/[ 
+[ 36/CD ]
+]/] ./. 
+
+[ It/PP ]
+is/VBZ significant/JJ that/IN 
+[ the/DT North/NP South/NP agreement/NN ]
+included/VBD 
+[ a/DT ban/NN ]
+on/IN 
+[ production/NN ]
+but/CC not/RB on/IN 
+[ acquisition/NN ]
+of/IN 
+[ plutonium/NN ]
+-/- -/- thus/IN presumably/RB leaving/VBG 
+[ South Korea/NP ]
+free/VB to/TO seek/VB 
+[ reprocessing/NN services/NNS ]
+and/CC 
+[ delivery/NN ]
+of/IN 
+[ separated/JJ plutonium/NN ]
+from/IN 
+[ the/DT U. K./NP ]
+or/CC 
+[ France/NP ]
+,/, as/IN 
+[ Japan/NP ]
+has/VBZ done/VBN ./. 
+
+======================================
+
+[ The/DT present/JJ U. S./NN ]
+[ discriminatory/JJ policy/NN ]
+may/MD not/RB prove/VB diplomatically/RB sustainable/JJ ./. 
+
+[ Japan/NP ]
+and/CC 
+[ South Korea/NP ]
+are/VBP 
+[ democratic/JJ governments/NNS ]
+,/, 
+[ they/PP ]
+are/VBP 
+[ NPT/NP members/NNS ]
+with/IN 
+[ full-scope/JJ safeguards/NNS ]
+,/, and/CC 
+[ they/PP ]
+have/VBP 
+[ defense/NN treaties/NNS ]
+with/IN 
+[ the/DT U. S./NN ]
+and/CC large-scale/JJ nuclear/JJ power/UNKNOWN programs/UNKNOWN ./. 
+
+[ The/DT U. S./NN State/NP Department/NP ]
+must/MD explain/VB to/TO 
+[ South Korea/NP ]
+why/WRB 
+[ it/PP ]
+trusts/VBZ 
+[ Tokyo/NP ]
+,/, but/CC not/RB 
+[ Seoul/NP ]
+,/, with/IN 
+[ plutonium/NN ]
+./. 
+
+[ U. S./NN policy/NN ]
+suggests/VBZ that/IN 
+[ NPT/NP membership/NN ]
+and/CC 
+[ IAEA/NP safeguards/NNS compliance/NN ]
+are/VBP 
+[ the/DT ultimate/JJ solution/NN ]
+to/TO 
+[ the/DT Northeast/NP Asian/NP proliferation/NN problem/NN ]
+./. 
+
+Absent/VB 
+[ the/DT elimination/NN ]
+of/IN 
+[ civil/JJ plutonium/NN ]
+,/, however/RB ,/, 
+[ this/DT approach/NN ]
+can/MD only/RB serve/VB to/TO codify/VB 
+[ the/DT problem/NN ]
+with/IN 
+[ an/DT NPT/NP ]
+/// 
+[ IAEA/NP stamp/NN ]
+of/IN 
+[ approval/NN ]
+./. 
+======================================
+
+[ Clinton/NP Administration/NP Plutonium/NP Policy/NP ]
+and/CC 
+[ North Korea/NP ]
+
+======================================
+
+[ U. S./NN policy/NN ]
+on/IN 
+[ the/DT use/NN ]
+of/IN 
+[ plutonium/NN ]
+has/VBZ remained/VBN essentially/RB 
+[ the/DT same/JJ ]
+under/IN 
+[ the/DT Reagan/NP ]
+,/, Bush/NP ,/, and/CC 
+[ Clinton/NP administrations/NNS ]
+:/: 
+
+[ the/DT DPRK/NP ]
+and/CC 
+[ South Korea/NP ]
+must/MD renounce/VB 
+[ all/DT plutonium/NN ]
+,/, but/CC 
+[ Japan/NP ]
+can/MD acquire/VB as/RB much/JJ as/IN 
+[ it/PP ]
+wants/UNKNOWN from/IN 
+[ U. S./NN ]
+-/- supplied/UNKNOWN 
+[ nuclear/JJ fuel/NN ]
+./. 
+
+[ This/DT discriminatory/JJ approach/NN ]
+was/VBD reiterated/VBN by/IN 
+[ President/NP Clinton/NP ]
+,/, whose/WP$ 
+[ nonproliferation/NN policy/NN ]
+states/VBZ ,/, "/" 
+[ The/DT United States/NNS ]
+does/VBZ not/RB encourage/VB 
+[ the/DT civil/JJ use/NN ]
+of/IN 
+[ plutonium/NN ]
+and/CC ,/, accordingly/RB ,/, does/VBZ not/RB 
+[ itself/PP ]
+engage/VB in/IN 
+[ plutonium/NN reprocessing/NN ]
+for/IN either/UNKNOWN 
+[ nuclear/JJ power/NN ]
+or/CC 
+[ nuclear/JJ explosive/NN purposes/NNS ]
+./. 
+
+[ The/DT United States/NNS ]
+,/, however/RB ,/, will/MD maintain/VB 
+[ its/PP$ existing/JJ commitments/NNS ]
+regarding/IN 
+[ the/DT use/NN ]
+of/IN 
+[ plutonium/NN ]
+in/IN 
+[ civil/JJ nuclear/JJ programs/NNS ]
+in/IN 
+[ Western/NP Europe/NP ]
+and/CC 
+[ Japan/NP ]
+"/" 1341/CD ./. (/( 
+
+At/IN 
+[ the/DT same/JJ time/NN ]
+,/, 
+[ U. S./NN Energy/NP Secretary/NP Hazel/NP O/NP Leary/NP ]
+has/VBZ launched/VBN 
+[ an/DT initiative/NN ]
+to/TO explore/VB 
+[ alternatives/NNS ]
+to/TO reprocessing/VBG and/CC has/VBZ expressed/VBN 
+[ her/PP$ opposition/NN ]
+to/TO reprocessing/VBG and/CC 
+[ plutonium/NN fuel/NN cycles/NNS ]
+./. )/) 
+
+======================================
+
+[ The/DT U. S./NN ]
+has/VBZ insisted/VBN that/IN 
+[ the/DT DPRK/NP give/NN ]
+up/IN 
+[ its/PP$ reprocessing/NN plant/NN ]
+and/CC 
+[ all/DT plutonium/NN ambitions/NNS ]
+./. 
+
+[ South Korean/JJ efforts/NNS ]
+to/TO acquire/VB 
+[ reprocessing/NN plants/NNS ]
+,/, 
+[ plutonium/NN separation/NN technology/NN ]
+,/, and/CC 
+[ related/JJ technology/NN ]
+have/VBP also/RB been/VBN quashed/VBN by/IN 
+[ firm/JJ U. S./NN diplomacy/NN ]
+./. 
+
+[ U. S./NN plutonium/NN policy/NN ]
+toward/IN 
+[ Japan/NP ]
+is/VBZ governed/VBN by/IN 
+[ the/DT 1988/CD revision/NN ]
+of/IN 
+[ the/DT U. S./NN ]
+-/- 
+[ Japanese/NP nuclear/JJ cooperation/NN agreement/NN ]
+that/WDT gave/VBD 
+[ Japan/NP advance/NN approval/NN ]
+to/TO reprocess/VB as/IN 
+[ much/RB U. S.-origin/JJ spent/JJ fuel/NN ]
+as/IN 
+[ it/PP ]
+wants/UNKNOWN over/IN a/DT 
+[ 30/CD ]
+-/- 
+[ year/NN period/NN ]
+[/[ 
+[ 35/CD ]
+]/] ./. 
+
+[ The/DT previous/JJ agreement/NN ]
+,/, 
+[ which/WDT ]
+was/VBD not/RB due/RB to/TO expire/VBP until/IN 
+[ 2003/CD ]
+,/, empowered/VBD 
+[ the/DT U. S./NN ]
+to/TO decide/VB 
+[ each/DT Japanese/NP request/NN ]
+for/IN 
+[ reprocessing/NN ]
+and/CC 
+[ plutonium/NN use/NN ]
+on/IN 
+[ a/DT case-by/JJ ]
+-/- case/UNKNOWN basis/NN ./. 
+
+======================================
+
+In/IN 
+[ November 1991/NN ]
+,/, while/IN 
+[ the/DT North-South/NP Korean/NP bilateral/JJ denuclearization/NN agreement/NN ]
+was/VBD being/VBG negotiated/VBN ,/, then/RB -/- 
+[ U. S./NN Secretary/NP of/IN State/NP James/NP Baker/NP ]
+made/VBD 
+[ clear/NN ]
+that/IN prohibiting/VBG 
+[ fuel/NN cycle/NN facilities/NNS ]
+was/VBD not/RB sufficient/JJ ,/, and/CC "/" 
+[ the/DT only/RB firm/JJ assurance/NN ]
+against/IN 
+[ a/DT nuclear/JJ arms/NNS ]
+race/VBP in/IN 
+[ the/DT Korean/NP peninsula/NN ]
+would/MD be/VB 
+[ a/DT credible/JJ agreement/NN ]
+by/IN both/CC 
+[ Seoul/NP ]
+and/CC 
+[ Pyongyang/NP ]
+to/TO abstain/VB from/IN 
+[ the/DT production or acquisition/NN ]
+of/IN any/DT weapons-grade/JJ nuclear/JJ material/NN "/" [/[ 
+[ emphasis/NN ]
+supplied/VBD ]/] [/[ 
+[ 36/CD ]
+]/] ./. 
+
+[ It/PP ]
+is/VBZ significant/JJ that/IN 
+[ the/DT North/NP South/NP agreement/NN ]
+included/VBD 
+[ a/DT ban/NN ]
+on/IN 
+[ production/NN ]
+but/CC not/RB on/IN 
+[ acquisition/NN ]
+of/IN 
+[ plutonium/NN ]
+-/- -/- thus/IN presumably/RB leaving/VBG 
+[ South Korea/NP ]
+free/VB to/TO seek/VB 
+[ reprocessing/NN services/NNS ]
+and/CC 
+[ delivery/NN ]
+of/IN 
+[ separated/JJ plutonium/NN ]
+from/IN 
+[ the/DT U. K./NP ]
+or/CC 
+[ France/NP ]
+,/, as/IN 
+[ Japan/NP ]
+has/VBZ done/VBN ./. 
+
+======================================
+
+[ The/DT present/JJ U. S./NN ]
+[ discriminatory/JJ policy/NN ]
+may/MD not/RB prove/VB diplomatically/RB sustainable/JJ ./. 
+
+[ Japan/NP ]
+and/CC 
+[ South Korea/NP ]
+are/VBP 
+[ democratic/JJ governments/NNS ]
+,/, 
+[ they/PP ]
+are/VBP 
+[ NPT/NP members/NNS ]
+with/IN 
+[ full-scope/JJ safeguards/NNS ]
+,/, and/CC 
+[ they/PP ]
+have/VBP 
+[ defense/NN treaties/NNS ]
+with/IN 
+[ the/DT U. S./NN ]
+and/CC large-scale/JJ nuclear/JJ power/UNKNOWN programs/UNKNOWN ./. 
+
+[ The/DT U. S./NN State/NP Department/NP ]
+must/MD explain/VB to/TO 
+[ South Korea/NP ]
+why/WRB 
+[ it/PP ]
+trusts/VBZ 
+[ Tokyo/NP ]
+,/, but/CC not/RB 
+[ Seoul/NP ]
+,/, with/IN 
+[ plutonium/NN ]
+./. 
+
+[ U. S./NN policy/NN ]
+suggests/VBZ that/IN 
+[ NPT/NP membership/NN ]
+and/CC 
+[ IAEA/NP safeguards/NNS compliance/NN ]
+are/VBP 
+[ the/DT ultimate/JJ solution/NN ]
+to/TO 
+[ the/DT Northeast/NP Asian/NP proliferation/NN problem/NN ]
+./. 
+
+Absent/VB 
+[ the/DT elimination/NN ]
+of/IN 
+[ civil/JJ plutonium/NN ]
+,/, however/RB ,/, 
+[ this/DT approach/NN ]
+can/MD only/RB serve/VB to/TO codify/VB 
+[ the/DT problem/NN ]
+with/IN 
+[ an/DT NPT/NP ]
+/// 
+[ IAEA/NP stamp/NN ]
+of/IN 
+[ approval/NN ]
+./. 

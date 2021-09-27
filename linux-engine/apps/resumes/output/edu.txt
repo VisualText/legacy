@@ -1,0 +1,20 @@
+KEY= 0-none,1-major,2-minor,3-school,
+     4-degree,5-grade,6-date
+
+LINE DATA IN EDUCATION ZONE
+---------------------------
+ NEW TOT FIRST  LAST  MAJ MIN SCH DEG GPA DAT
+     num  key   key   ord ord ord ord ord ord
+---------------------------------------------
+DUMP EDUCATION INSTANCES
+------------------------
+KEY= 0-none,1-major,2-minor,3-school,
+     4-degree,5-grade,6-date
+
+LINE DATA IN EDUCATION ZONE
+---------------------------
+ NEW TOT FIRST  LAST  MAJ MIN SCH DEG GPA DAT
+     num  key   key   ord ord ord ord ord ord
+---------------------------------------------
+DUMP EDUCATION INSTANCES
+------------------------

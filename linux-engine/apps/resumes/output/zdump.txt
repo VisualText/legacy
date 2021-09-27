@@ -1,0 +1,164 @@
+Unreduced unknown words in Caps
+-------------------------------
+
+Cap Phrases (BEFORE ANY GLOMMING)
+-----------------------------------
+
+Cap Phrases (BEFORE CONJUNCTION MERGE)
+----------------------------------------
+
+Characterizing General Cap Phrases
+----------------------------------
+Unreduced unknown words in Caps
+-------------------------------
+Hilster
+LexisNexis
+
+Cap Phrases (BEFORE ANY GLOMMING)
+-----------------------------------
+$text=David
+len = 1
+humannames = 1
+end humanname = 1
+start humanname = 1
+caplen = 1
+hi conf = 0
+hi class = NULL
+ambigs = 0
+-------
+$text=Hilster
+len = 1
+caplen = 1
+unknowns = 1
+hi conf = 55
+hi class = company
+ambigs = 0
+company conf = 55
+-------
+$text=Experience
+noglom = 1
+len = 1
+headerroots = 1
+end headerroot = 1
+caplen = 1
+hi conf = 92
+hi class = header
+ambigs = 1
+header conf = 92
+-------
+$text=LexisNexis Jan
+len = 2
+caplen = 2
+unknowns = 1
+hi conf = 50
+hi class = company
+ambigs = 0
+company conf = 50
+diff = 0
+job conf = 0
+humanname conf = 48
+-------
+$text=Present
+len = 1
+caplen = 1
+hi conf = 0
+hi class = NULL
+ambigs = 0
+-------
+
+Cap Phrases (BEFORE CONJUNCTION MERGE)
+----------------------------------------
+$text=David
+len = 1
+humannames = 1
+end humanname = 1
+start humanname = 1
+caplen = 1
+hi conf = 0
+hi class = NULL
+ambigs = 0
+-------
+$text=Hilster
+len = 1
+caplen = 1
+unknowns = 1
+hi conf = 55
+hi class = company
+ambigs = 0
+company conf = 55
+-------
+$text=Experience
+noglom = 1
+len = 1
+headerroots = 1
+end headerroot = 1
+caplen = 1
+hi conf = 92
+hi class = header
+ambigs = 1
+header conf = 92
+-------
+$text=LexisNexis Jan
+len = 2
+caplen = 2
+unknowns = 1
+hi conf = 50
+hi class = company
+ambigs = 0
+company conf = 50
+diff = 0
+job conf = 0
+humanname conf = 48
+-------
+$text=Present
+len = 1
+caplen = 1
+hi conf = 0
+hi class = NULL
+ambigs = 0
+-------
+
+Characterizing General Cap Phrases
+----------------------------------
+$text=David
+len = 1
+humannames = 1
+end humanname = 1
+start humanname = 1
+caplen = 1
+hi conf = 0
+hi class = NULL
+ambigs = 0
+city conf = 0
+-------
+$text=Hilster
+len = 1
+caplen = 1
+unknowns = 1
+hi conf = 55
+hi class = company
+ambigs = 0
+company conf = 55
+city conf = 50
+-------
+$text=LexisNexis Jan
+len = 2
+caplen = 2
+unknowns = 1
+hi conf = 50
+hi class = company
+ambigs = 0
+company conf = 50
+diff = 0
+job conf = 0
+humanname conf = 48
+city conf = 30
+-------
+$text=Present
+len = 1
+caplen = 1
+hi conf = 0
+hi class = NULL
+ambigs = 0
+city conf = 0
+-------
