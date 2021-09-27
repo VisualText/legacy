@@ -1,0 +1,15 @@
+CMakeLists.txt
+dir.cpp
+dyn.cpp
+files.txt
+io.cpp
+libprim.cpp
+list.cpp
+mach-old.cpp
+prim.cpp
+sm.cpp
+StdAfx.cpp
+StdAfx.h
+str.cpp
+u_out.cpp
+u_out.h
