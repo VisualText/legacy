@@ -1,0 +1,109 @@
+CONTACT ZONE
+------------
+$text=A dummy input file.
+
+addressParts = 0
+nlines = 1
+
+
+   CONTACT ZONE LINES DUMP
+----------------------------------
+$text=A dummy input file.
+
+nalpha = 15
+walpha = 4
+nwhite = 3
+npunct = 1
+wallcaps = 1
+wcap = 1
+nblobs = 4
+lineno = 1
+-------
+
+    Contact Zone Cap Phrases
+----------------------------------
+CONTACT ZONE
+------------
+$text=David de Hilster
+22936 Ironwedge Dr.
+Boca Raton, FL 33433
+
+addressParts = 1
+nlines = 3
+naddressparts = 2
+first addressline = 2
+last addressline = 3
+
+
+   CONTACT ZONE LINES DUMP
+----------------------------------
+$text=David de Hilster
+
+nalpha = 14
+walpha = 3
+nwhite = 2
+wcap = 2
+nblobs = 3
+nunknowns = 2
+cap phrases = 2
+hi class = NULL
+hi conf = 0
+lineno = 1
+-------
+$text=22936 Ironwedge Dr.
+
+nnum = 5
+wnum = 1
+nwhite = 2
+nalpha = 11
+walpha = 2
+npunct = 1
+nblobs = 3
+wcap = 2
+nunknowns = 2
+addressParts = 1
+lineno = 2
+naddressparts = 1
+-------
+$text=Boca Raton, FL 33433
+
+nalpha = 11
+walpha = 3
+nwhite = 3
+npunct = 1
+nnum = 5
+wnum = 1
+wcap = 3
+nblobs = 4
+wallcaps = 1
+nunknowns = 3
+addressParts = 1
+lineno = 3
+naddressparts = 1
+-------
+
+    Contact Zone Cap Phrases
+----------------------------------
+$text=David
+len = 1
+humannames = 1
+end humanname = 1
+start humanname = 1
+caplen = 1
+hi conf = 0
+hi class = NULL
+ambigs = 0
+city conf = 0
+text = David
+-------
+$text=Hilster
+len = 1
+caplen = 1
+unknowns = 1
+hi conf = 55
+hi class = company
+ambigs = 0
+company conf = 55
+city conf = 50
+text = Hilster
+-------

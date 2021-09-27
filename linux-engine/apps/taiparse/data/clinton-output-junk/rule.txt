@@ -1,0 +1,145 @@
+
+# Automatically gen'd rule file.
+@PATH _ROOT _TEXTZONE _sent
+
+@RULES
+
+_clause <- _np @@
+_clause <- _np _advl _vg _advl _np _advl @@
+_clause <- _np @@
+_clause <- _np _vg _np @@
+_clause <- _np _vg @@
+_clause <- _np alpha _advl \- _vg _np @@
+_clause <- _np _vg _advl @@
+_clause <- _np _vg @@
+_clause <- _np _vg _np @@
+_clause <- _advl _np _vg _advl _prep @@
+_clause <- _np @@
+_clause <- _np _advl _vg _np _advl @@
+_clause <- _np @@
+_clause <- num @@
+_clause <- _advl @@
+_clause <- _np _vg _np @@
+_clause <- _vg _np @@
+_clause <- _vg _np @@
+_clause <- _vg @@
+_clause <- _np @@
+_clause <- _np _vg @@
+_clause <- _np _advl @@
+_clause <- _np @@
+_clause <- _vg _np @@
+_clause <- _vg _advl @@
+_clause <- _np _advl _vg _advl \- _np @@
+_clause <- _vg _np @@
+_clause <- _vg _advl alpha _prep _det _np \- _np \[ _np \] @@
+_clause <- _np @@
+_clause <- _vg _advl @@
+_clause <- _vg _advl @@
+_clause <- _vg _np @@
+_clause <- _vg _np _advl @@
+_clause <- _np _advl \- alpha _noun @@
+_clause <- _advl @@
+_clause <- _np _vg @@
+_clause <- \- _np _vg _np @@
+_clause <- _vg @@
+_clause <- _np _vg _advl _adjc @@
+_clause <- _np _advl _vg @@
+_clause <- _advl _vg _np _prep @@
+_clause <- _np @@
+_clause <- _np @@
+_clause <- _vg _advl _prep _np @@
+_clause <- \[ _np _vg \] \[ _np \] @@
+_clause <- _np _vg _adjc @@
+_clause <- _fnword _np _vg _np _advl @@
+_clause <- _advl @@
+_clause <- _advl _vg _np @@
+_clause <- _vg _np @@
+_clause <- _np _advl @@
+_clause <- _np @@
+_clause <- _np _vg @@
+_clause <- _np _np _vg _advl _adjc @@
+_clause <- _np _vg _np @@
+_clause <- _np _vg _np _advl @@
+_clause <- _np _vg _np _advl @@
+_clause <- _adj _adj alpha alpha @@
+_clause <- _np _vg _advl @@
+_clause <- _np _vg _np @@
+_clause <- _advl _np @@
+_clause <- _advl @@
+_clause <- _np _vg @@
+_clause <- _np @@
+_clause <- _np _vg _np _advl @@
+_clause <- _vg _np _advl @@
+_clause <- _np _vg _np _advl \/ _np @@
+# Automatically gen'd rule file.
+@PATH _ROOT _TEXTZONE _sent
+
+@RULES
+
+_clause <- _np @@
+_clause <- _np _advl _vg _advl _np _advl @@
+_clause <- _np @@
+_clause <- _np _vg _np @@
+_clause <- _np _vg @@
+_clause <- _np alpha _advl \- _vg _np @@
+_clause <- _np _vg _advl @@
+_clause <- _np _vg @@
+_clause <- _np _vg _np @@
+_clause <- _advl _np _vg _advl _prep @@
+_clause <- _np @@
+_clause <- _np _advl _vg _np _advl @@
+_clause <- _np @@
+_clause <- num @@
+_clause <- _advl @@
+_clause <- _np _vg _np @@
+_clause <- _vg _np @@
+_clause <- _vg _np @@
+_clause <- _vg @@
+_clause <- _np @@
+_clause <- _np _vg @@
+_clause <- _np _advl @@
+_clause <- _np @@
+_clause <- _vg _np @@
+_clause <- _vg _advl @@
+_clause <- _np _advl _vg _advl \- _np @@
+_clause <- _vg _np @@
+_clause <- _vg _advl alpha _prep _det _np \- _np \[ _np \] @@
+_clause <- _np @@
+_clause <- _vg _advl @@
+_clause <- _vg _advl @@
+_clause <- _vg _np @@
+_clause <- _vg _np _advl @@
+_clause <- _np _advl \- alpha _noun @@
+_clause <- _advl @@
+_clause <- _np _vg @@
+_clause <- \- _np _vg _np @@
+_clause <- _vg @@
+_clause <- _np _vg _advl _adjc @@
+_clause <- _np _advl _vg @@
+_clause <- _advl _vg _np _prep @@
+_clause <- _np @@
+_clause <- _np @@
+_clause <- _vg _advl _prep _np @@
+_clause <- \[ _np _vg \] \[ _np \] @@
+_clause <- _np _vg _adjc @@
+_clause <- _fnword _np _vg _np _advl @@
+_clause <- _advl @@
+_clause <- _advl _vg _np @@
+_clause <- _vg _np @@
+_clause <- _np _advl @@
+_clause <- _np @@
+_clause <- _np _vg @@
+_clause <- _np _np _vg _advl _adjc @@
+_clause <- _np _vg _np @@
+_clause <- _np _vg _np _advl @@
+_clause <- _np _vg _np _advl @@
+_clause <- _adj _adj alpha alpha @@
+_clause <- _np _vg _advl @@
+_clause <- _np _vg _np @@
+_clause <- _advl _np @@
+_clause <- _advl @@
+_clause <- _np _vg @@
+_clause <- _np @@
+_clause <- _np _vg _np _advl @@
+_clause <- _vg _np _advl @@
+_clause <- _np _vg _np _advl \/ _np @@

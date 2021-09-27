@@ -1,0 +1,23 @@
+INFO FOR EXPERIENCE ZONE
+=======================================================
+ LINE NEXT  LINE
+  NO  ANCH  TEXT
+ ------------------------------------------------------
+
+TOTAL CAPS CONFIDENCE FOR EXPERIENCE ZONE
+=======================================================
+ ANCH CURR PROX JOB  JOB   CO   CO  JOB  CO CAP
+ LINE LINE CONF CONF TCNF CONF TCNF HI   HI PHR
+ ------------------------------------------------------
+INFO FOR EXPERIENCE ZONE
+=======================================================
+ LINE NEXT  LINE
+  NO  ANCH  TEXT
+ ------------------------------------------------------
+
+TOTAL CAPS CONFIDENCE FOR EXPERIENCE ZONE
+=======================================================
+ ANCH CURR PROX JOB  JOB   CO   CO  JOB  CO CAP
+ LINE LINE CONF CONF TCNF CONF TCNF HI   HI PHR
+ ------------------------------------------------------
+    0    1    0    0    0    0    0   0  40 Present

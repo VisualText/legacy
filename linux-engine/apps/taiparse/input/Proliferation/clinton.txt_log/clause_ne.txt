@@ -1,0 +1,351 @@
+PART   SEM          STEM          NE_TEXT       ALL_TEXT
+========================================================
+
+sentence: Clinton Administration Plutonium Policy and North Korea
+
+clause: Clinton Administration Plutonium Policy and North Korea
+voice:	nil
+np  	nil     	nil     	nil         	Clinton Administration Plutonium Policy and North Korea
+
+sentence: U.S. policy on the use of plutonium has remained essentially the same under the Reagan, Bush, and Clinton administrations
+
+clause: U.S. policy on the use of plutonium has remained essentially the same under the Reagan, Bush,
+voice:	active
+
+clause: Clinton administrations
+voice:	nil
+np  	administration	administration	nil         	Clinton administrations
+
+sentence: the DPRK and South Korea must renounce all plutonium, but Japan can acquire as much as it wants from U.S.-supplied nuclear fuel
+
+clause: the DPRK and South Korea must renounce all plutonium
+voice:	active
+np  	nil     	nil     	nil         	the DPRK and South Korea
+vg  	renounce	renounce	nil         	must renounce
+np  	plutonium	plutonium	nil         	all plutonium
+
+clause: Japan can acquire
+voice:	active
+np  	country 	japan   	nil         	Japan
+vg  	acquire 	acquire 	nil         	can acquire
+
+clause: it wants from U.S.-supplied nuclear fuel
+voice:	nil
+
+sentence: This discriminatory approach was reiterated by President Clinton, whose nonproliferation policy states, "The United States does not encourage the civil use of plutonium and, accordingly, does not itself engage in plutonium reprocessing for either nuclear power or nuclear explosive purposes
+
+clause: This discriminatory approach was reiterated by President Clinton
+voice:	passive
+np  	approach	approach	nil         	This discriminatory approach
+vg  	reiterate	reiterate	nil         	was reiterated
+advl	name    	nil     	nil         	by President Clinton
+
+clause: nonproliferation policy states
+voice:	active
+np  	policy  	policy  	nil         	nonproliferation policy
+vg  	state   	state   	nil         	states
+
+clause: The United States does not encourage the civil use of plutonium
+voice:	active
+np  	location	usa     	nil         	The United States
+vg  	encourage	encourage	nil         	does not encourage
+np  	plutonium	plutonium	nil         	the civil use of plutonium
+
+clause: , accordingly, does not itself engage in plutonium reprocessing for
+voice:	active
+
+clause: nuclear power or nuclear explosive purposes
+voice:	nil
+np  	nil     	nil     	nil         	nuclear power or nuclear explosive purposes
+
+sentence: The United States, however, will maintain its existing commitments regarding the use of plutonium in civil nuclear programs in Western Europe and Japan" 1341
+
+clause: The United States, however, will maintain its existing commitments regarding the use of plutonium in civil nuclear programs in Western Europe
+voice:	active
+np  	country 	usa     	nil         	The United States
+advl	however 	however 	nil         	, however,
+vg  	maintain	maintain	nil         	will maintain
+np  	commitment	commitment	nil         	its existing commitments
+advl	nil     	nil     	nil         	regarding the use
+advl	nil     	nil     	nil         	of plutonium
+advl	nil     	nil     	nil         	in civil nuclear programs
+advl	country 	europe  	nil         	in Western Europe
+
+clause: Japan
+voice:	nil
+np  	location	japan   	nil         	Japan
+
+clause: 1341
+voice:	nil
+
+sentence: At the same time, U.S. Energy Secretary Hazel O'Leary has launched an initiative to explore alternatives to reprocessing and has expressed her opposition to reprocessing and plutonium fuel cycles
+
+clause: At the same time
+voice:	nil
+advl	nil     	nil     	nil         	At the same time
+
+clause: U.S. Energy Secretary Hazel O'Leary has launched an initiative
+voice:	active
+np  	location	Energy Secretary Hazel O'Leary	nil         	U.S. Energy Secretary Hazel O'Leary
+vg  	launch  	launch  	nil         	has launched
+np  	initiative	initiative	nil         	an initiative
+
+clause: to explore alternatives
+voice:	active
+vg  	explore 	explore 	nil         	to explore
+np  	alternative	alternative	nil         	alternatives
+
+clause: to reprocessing and has expressed her opposition
+voice:	active
+vg  	reprocess	reprocess	nil         	to reprocessing and has expressed
+np  	opposition	opposition	nil         	her opposition
+
+clause: to reprocessing
+voice:	active
+vg  	reprocess	reprocess	nil         	to reprocessing
+
+clause: plutonium fuel cycles
+voice:	nil
+np  	cycle   	cycle   	nil         	plutonium fuel cycles
+
+sentence: The U.S. has insisted that the DPRK give up its reprocessing plant and all plutonium ambitions
+
+clause: The U.S. has insisted
+voice:	active
+np  	location	usa     	nil         	The U.S.
+vg  	insist  	insist  	nil         	has insisted
+
+clause: the DPRK give up its reprocessing plant and all plutonium ambitions
+voice:	nil
+np  	give    	give    	nil         	the DPRK give
+advl	nil     	nil     	nil         	up its reprocessing plant and all plutonium ambitions
+
+sentence: South Korean efforts to acquire reprocessing plants, plutonium separation technology, and related technology have also been quashed by firm U.S. diplomacy
+
+clause: South Korean efforts
+voice:	nil
+np  	effort  	effort  	nil         	South Korean efforts
+
+clause: to acquire reprocessing plants, plutonium separation technology, and related technology
+voice:	active
+vg  	acquire 	acquire 	nil         	to acquire
+np  	technology	technology	nil         	reprocessing plants, plutonium separation technology, and related technology
+
+clause: have also been quashed by firm U.S. diplomacy
+voice:	passive
+vg  	quash   	quash   	nil         	have also been quashed
+advl	diplomacy	diplomacy	nil         	by firm U.S. diplomacy
+
+sentence: U.S. plutonium policy toward Japan is governed by the 1988 revision of the U.S.-Japanese nuclear cooperation agreement that gave Japan advance approval to reprocess as much U.S.-origin spent fuel as it wants over a 30-year period [35]
+
+clause: U.S. plutonium policy toward Japan is governed by the 1988 revision of the U.S.-Japanese nuclear cooperation agreement
+voice:	passive
+
+clause: gave Japan advance approval
+voice:	active
+vg  	give    	give    	nil         	gave
+np  	approval	approval	nil         	Japan advance approval
+
+clause: to reprocess as much U.S.-origin spent fuel as it wants over a 30-year period [35]
+voice:	active
+
+sentence: The previous agreement, which was not due to expire until 2003, empowered the U.S. to decide each Japanese request for reprocessing and plutonium use on a case-by-case basis
+
+clause: The previous agreement
+voice:	nil
+np  	agreement	agreement	nil         	The previous agreement
+
+clause: was not
+voice:	active
+
+clause: expire until 2003
+voice:	active
+vg  	expire  	expire  	nil         	expire
+advl	empower 	empower 	nil         	until 2003
+
+clause: empowered the U.S.
+voice:	active
+vg  	empower 	empower 	nil         	empowered
+np  	location	usa     	nil         	the U.S.
+
+clause: to decide each Japanese request for reprocessing
+voice:	active
+vg  	decide  	decide  	nil         	to decide
+np  	request 	request 	nil         	each Japanese request
+advl	reprocess	reprocess	nil         	for reprocessing
+
+clause: plutonium use on a case-by-case basis
+voice:	nil
+
+sentence: In November 1991, while the North-South Korean bilateral denuclearization agreement was being negotiated, then-U.S. Secretary of State James Baker made clear that prohibiting fuel cycle facilities was not sufficient, and "the only firm assurance against a nuclear arms race in the Korean peninsula would be a credible agreement by both Seoul and Pyongyang to abstain from the production or acquisition of any weapons-grade nuclear material" [emphasis supplied] [36]
+
+clause: In November 1991
+voice:	nil
+advl	date    	nil     	nil         	In November 1991
+
+clause: the North-South Korean bilateral denuclearization agreement was being negotiated
+voice:	passive
+np  	agreement	agreement	nil         	the North-South Korean bilateral denuclearization agreement
+vg  	negotiate	negotiate	nil         	was being negotiated
+
+clause: -U.S. Secretary of State James Baker made clear
+voice:	active
+
+clause: prohibiting
+voice:	active
+vg  	prohibit	prohibit	nil         	prohibiting
+
+clause: fuel cycle facilities was not sufficient
+voice:	active
+
+clause: the only firm assurance against a nuclear arms race
+voice:	active
+np  	assurance	assurance	nil         	the only firm assurance
+advl	arm     	arm     	nil         	against a nuclear arms
+vg  	in      	in      	nil         	race
+
+clause: in the Korean peninsula would be a credible agreement by
+voice:	active
+advl	peninsula	peninsula	nil         	in the Korean peninsula
+vg  	be      	be      	nil         	would be
+np  	agreement	agreement	nil         	a credible agreement
+prep	by      	by      	nil         	by
+
+clause: Seoul
+voice:	nil
+np  	name    	Seoul   	nil         	Seoul
+
+clause: Pyongyang
+voice:	nil
+np  	name    	Pyongyang	nil         	Pyongyang
+
+clause: to abstain from the production or acquisition of any weapons-grade nuclear material
+voice:	active
+vg  	abstain 	abstain 	nil         	to abstain
+advl	nil     	nil     	nil         	from the production or acquisition
+prep	of      	of      	nil         	of
+np  	nil     	nil     	nil         	any weapons-grade nuclear material
+
+clause: [emphasis supplied] [36]
+voice:	active
+
+sentence: It is significant that the North South agreement included a ban on production but not on acquisition of plutonium -- thus presumably leaving South Korea free to seek reprocessing services and delivery of separated plutonium from the U.K. or France, as Japan has done
+
+clause: It is significant
+voice:	active
+np  	it      	it      	nil         	It
+vg  	be      	be      	nil         	is
+adjc	significant	significant	nil         	significant
+
+clause: that the North South agreement included a ban on production
+voice:	active
+fnword	that    	that    	nil         	that
+np  	agreement	agreement	nil         	the North South agreement
+vg  	include 	include 	nil         	included
+np  	ban     	ban     	nil         	a ban
+advl	production	production	nil         	on production
+
+clause: not on acquisition of plutonium
+voice:	nil
+
+clause: presumably leaving South Korea
+voice:	active
+
+clause: free to seek reprocessing services
+voice:	active
+vg  	nil     	nil     	nil         	free to seek
+np  	service 	service 	nil         	reprocessing services
+
+clause: delivery of separated plutonium from the U.K.
+voice:	nil
+np  	plutonium	plutonium	nil         	delivery of separated plutonium
+advl	nil     	nil     	nil         	from the U.K.
+
+clause: France
+voice:	nil
+np  	location	france  	nil         	France
+
+clause: Japan has done
+voice:	active
+np  	country 	japan   	nil         	Japan
+vg  	do      	do      	nil         	has done
+
+sentence: The present U.S. discriminatory policy may not prove diplomatically sustainable
+
+clause: The present U.S. discriminatory policy may not prove diplomatically sustainable
+voice:	active
+
+sentence: Japan and South Korea are democratic governments, they are NPT members with full-scope safeguards, and they have defense treaties with the U.S. and large-scale nuclear power programs
+
+clause: Japan and South Korea are democratic governments
+voice:	active
+np  	nil     	nil     	nil         	Japan and South Korea
+vg  	be      	be      	nil         	are
+np  	government	government	nil         	democratic governments
+
+clause: they are NPT members with full-scope safeguards
+voice:	active
+np  	person  	they    	nil         	they
+vg  	be      	be      	nil         	are
+np  	member  	member  	nil         	NPT members
+advl	safeguard	safeguard	nil         	with full-scope safeguards
+
+clause: they have defense treaties with the U.S.
+voice:	active
+np  	person  	they    	nil         	they
+vg  	have    	have    	nil         	have
+np  	treaty  	treaty  	nil         	defense treaties
+advl	location	usa     	nil         	with the U.S.
+
+clause: large-scale nuclear power programs
+voice:	nil
+
+sentence: The U.S. State Department must explain to South Korea why it trusts Tokyo, but not Seoul, with plutonium
+
+clause: The U.S. State Department must explain to South Korea
+voice:	active
+np  	organization	State Department	nil         	The U.S. State Department
+vg  	explain 	explain 	nil         	must explain
+advl	country 	south korea	nil         	to South Korea
+
+clause: it trusts Tokyo
+voice:	active
+np  	it      	it      	nil         	it
+vg  	trust   	trust   	nil         	trusts
+np  	name    	nil     	nil         	Tokyo
+
+clause: not Seoul
+voice:	nil
+
+clause: with plutonium
+voice:	nil
+advl	plutonium	plutonium	nil         	with plutonium
+
+sentence: U.S. policy suggests that NPT membership and IAEA safeguards compliance are the ultimate solution to the Northeast Asian proliferation problem
+
+clause: U.S. policy suggests
+voice:	active
+np  	policy  	policy  	nil         	U.S. policy
+vg  	suggest 	suggest 	nil         	suggests
+
+clause: NPT membership
+voice:	nil
+np  	membership	membership	nil         	NPT membership
+
+clause: IAEA safeguards compliance are the ultimate solution to the Northeast Asian proliferation problem
+voice:	active
+np  	compliance	compliance	nil         	IAEA safeguards compliance
+vg  	be      	be      	nil         	are
+np  	solution	solution	nil         	the ultimate solution
+advl	problem 	problem 	nil         	to the Northeast Asian proliferation problem
+
+sentence: Absent the elimination of civil plutonium, however, this approach can only serve to codify the problem with an NPT/ IAEA stamp of approval
+
+clause: Absent the elimination of civil plutonium, however,
+voice:	active
+vg  	absent  	absent  	nil         	Absent
+np  	plutonium	plutonium	nil         	the elimination of civil plutonium
+advl	however 	however 	nil         	, however,
+
+clause: this approach can only serve to codify the problem with an NPT/ IAEA stamp of approval
+voice:	active

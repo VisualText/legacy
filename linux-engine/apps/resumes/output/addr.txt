@@ -1,0 +1,21 @@
+
+LINE ADDRESSPARTS
+-----------------
+line count=0
+
+ZONE ADDRESSPARTS
+-----------------
+zone count=0
+
+LINE ADDRESSPARTS
+-----------------
+line count=0
+line count=1
+line count=1
+line count=0
+line count=0
+
+ZONE ADDRESSPARTS
+-----------------
+zone count=1
+zone count=0

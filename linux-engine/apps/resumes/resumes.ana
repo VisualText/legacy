@@ -1,0 +1,49 @@
+findstate	
+loadcompiledkb	true
+treeoffsets	false
+treesemantics	false
+browsertoolbar	false
+tabtoolbar	false
+debugtoolbar	false
+kbtoolbar	false
+batchmode	false
+pagemode	true
+verbosemode	false
+loganalyzer	false
+highlighttext	false
+textstate	21
+textsel	22
+analyzerstate	
+analyzersel	107
+grammarstate	1:27:8055:8056:8219:8220
+grammarsel	8219
+activetab	2
+processfile	DEV1\bembi.txt
+docopen	input\DEV1\bembi.txt	0	300	0	500	0	0	0	0´2225064
+docopen	input\DEV1\bembi.txt_log\output.txt	5	305	514	1014	0	0	0	0´2225064
+attributeeditor	false
+addcombotext	Cana
+addcombotext	DEV1
+addcombotext	DEV1\bernal.txt
+addcombotext	DEV1\birger.txt
+addcombotext	DEV1\blackman.txt
+addcombotext	DEV1\calmank.txt
+addcombotext	DEV1\dodd.txt
+addcombotext	DEV1\favor.txt
+addcombotext	DEV1\felbab.txt
+addcombotext	DEV1\gansler.txt
+addcombotext	DEV1\gaur.txt
+addcombotext	DEV1\gunter.txt
+addcombotext	DEV1\hamilton.txt
+addcombotext	DEV1\hickman.txt
+addcombotext	DEV1\hildebrandt.txt
+addcombotext	DEV1\jooyeon.txt
+addcombotext	DEV1\lala.txt
+addcombotext	DEV1\lapinski.txt
+addcombotext	DEV1\lee.txt
+addcombotext	DEV1\maggard.txt
+addcombotext	DEV1\mason.txt
+addcombotext	DEV1\mcelhiney.txt
+addcombotext	DEV1\mcpherson.txt
+addcombotext	DEV1\mocioiu.txt
+addcombotext	DEV1\bembi.txt

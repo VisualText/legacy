@@ -1,0 +1,16 @@
+------------
+$text=LexisNexis Jan-2015-Present
+
+nalpha = 20
+walpha = 3
+nwhite = 1
+npunct = 2
+nnum = 4
+wnum = 1
+wcap = 3
+nblobs = 2
+nunknowns = 2
+cap phrases = 2
+hi class = NULL
+hi conf = 0
+lineno = 1

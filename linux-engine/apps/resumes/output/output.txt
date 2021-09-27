@@ -1,0 +1,32 @@
+Printing from code region.
+Word con=abc
+Printing from code region.
+Word con=abc
+Printing from code region.
+Word con=abc
+Printing from code region.
+Word con=abc
+[Tue May 10 21:44:14 2016]
+
+CONTACT:
+
+
+EDUCATION:
+
+
+EXPERIENCE:
+[Tue May 10 21:45:16 2016]
+
+CONTACT:
+
+Number:      22936
+Street:      Ironwedge
+Road:        Dr
+City:         Boca Raton
+State:        FL
+Zip:          33433
+
+EDUCATION:
+
+
+EXPERIENCE:

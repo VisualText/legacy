@@ -1,0 +1,67 @@
+noverb:  Clinton Administration Plutonium Policy and North Korea
+active:  U.S. policy on the use of plutonium has remained essentially the same under the Reagan, Bush,
+noverb:  Clinton administrations
+active:  the DPRK and South Korea must renounce all plutonium
+active:  Japan can acquire
+noverb:  it wants from U.S.-supplied nuclear fuel
+passive: This discriminatory approach was reiterated by President Clinton
+active:  nonproliferation policy states
+active:  The United States does not encourage the civil use of plutonium
+active:  , accordingly, does not itself engage in plutonium reprocessing for
+noverb:  nuclear power or nuclear explosive purposes
+active:  The United States, however, will maintain its existing commitments regarding the use of plutonium in civil nuclear programs in Western Europe
+noverb:  Japan
+noverb:  1341
+noverb:  At the same time
+active:  U.S. Energy Secretary Hazel O'Leary has launched an initiative
+active:  to explore alternatives
+active:  to reprocessing and has expressed her opposition
+active:  to reprocessing
+noverb:  plutonium fuel cycles
+active:  The U.S. has insisted
+noverb:  the DPRK give up its reprocessing plant and all plutonium ambitions
+noverb:  South Korean efforts
+active:  to acquire reprocessing plants, plutonium separation technology, and related technology
+passive: have also been quashed by firm U.S. diplomacy
+passive: U.S. plutonium policy toward Japan is governed by the 1988 revision of the U.S.-Japanese nuclear cooperation agreement
+active:  gave Japan advance approval
+active:  to reprocess as much U.S.-origin spent fuel as it wants over a 30-year period [35]
+noverb:  The previous agreement
+active:  was not
+active:  expire until 2003
+active:  empowered the U.S.
+active:  to decide each Japanese request for reprocessing
+noverb:  plutonium use on a case-by-case basis
+noverb:  In November 1991
+passive: the North-South Korean bilateral denuclearization agreement was being negotiated
+noverb:  -U.S. Secretary of State James Baker made clear
+active:  prohibiting
+active:  fuel cycle facilities was not sufficient
+active:  the only firm assurance against a nuclear arms race
+active:  in the Korean peninsula would be a credible agreement by
+noverb:  Seoul
+noverb:  Pyongyang
+active:  to abstain from the production or acquisition of any weapons-grade nuclear material
+noverb:  [emphasis supplied] [36]
+active:  It is significant
+noverb:  that the North South agreement included a ban on production
+noverb:  not on acquisition of plutonium
+active:  presumably leaving South Korea
+active:  free to seek reprocessing services
+noverb:  delivery of separated plutonium from the U.K.
+noverb:  France
+active:  Japan has done
+noverb:  The present U.S. discriminatory policy may not prove diplomatically sustainable
+active:  Japan and South Korea are democratic governments
+active:  they are NPT members with full-scope safeguards
+active:  they have defense treaties with the U.S.
+noverb:  large-scale nuclear power programs
+active:  The U.S. State Department must explain to South Korea
+active:  it trusts Tokyo
+noverb:  not Seoul
+noverb:  with plutonium
+active:  U.S. policy suggests
+noverb:  NPT membership
+active:  IAEA safeguards compliance are the ultimate solution to the Northeast Asian proliferation problem
+active:  Absent the elimination of civil plutonium, however,
+active:  this approach can only serve to codify the problem with an NPT/ IAEA stamp of approval
